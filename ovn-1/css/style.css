@@ -1,0 +1,30 @@
+.dev_block_1 {
+  box-sizing: border-box;
+  background-color: #2f3241;
+  height: 15vh;
+}
+
+.dev_block_2 {
+  /* box-sizing: border-box; */
+  background-color: #2f3241;
+  height: 20vh;
+}
+
+.dev_block_3 {
+  /* box-sizing: border-box; */
+  background-color: #2f3241;
+  height: 40vh;
+}
+
+.dev_block_4 {
+  /* box-sizing: border-box; */
+  background-color: #2f3241;
+  height: 25vh;
+}
+
+.dev_content {
+  /* box-sizing: border-box; */
+  background-color: #1a1b23;
+  height: 100%;
+  color: #f6f8f8;
+}
